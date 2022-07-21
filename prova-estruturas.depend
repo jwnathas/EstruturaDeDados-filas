@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1658429122 source:/home/jonathas/Documentos/Projetos/prova-estruturas/main.c
+	"filaDeProcessos.h"
+
+1658428294 /home/jonathas/Documentos/Projetos/prova-estruturas/filaDeProcessos.h
+	<stdio.h>
+	<stdlib.h>
+
+1658428728 source:/home/jonathas/Documentos/Projetos/prova-estruturas/filaDeProcessos.c
+	"filaDeProcessos.h"
+
